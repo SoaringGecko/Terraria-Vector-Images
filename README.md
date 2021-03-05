@@ -6,3 +6,10 @@ This is a little side project were I am converting Terraria sprites into vector 
 Go to the wiki page to more easily find the content you are looking for: https://github.com/SoaringGecko/Terraria-Vector-Images/wiki
 
 If you would like to contribute to the proj, please do.
+
+## Things being added
+- [x] NPC's
+- [ ] Bosses (has most of it done)
+- [ ] Achievements
+- [ ] Items
+- [ ] Enemies
