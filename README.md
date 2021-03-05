@@ -13,4 +13,4 @@ If you would like to contribute to the proj, please do.
 - [ ] Achievements
 - [ ] Items
 - [ ] Enemies
-- [ ] Anything else I may be forgeting
+- [ ] Anything else I may be forgetting
