@@ -9,7 +9,7 @@ If you would like to contribute to the proj, please do.
 
 ## Things being added
 - [x] NPC's
-- [ ] Bosses (has most of it done)
+- [ ] Bosses (pages not made on wiki)
 - [ ] Achievements
 - [ ] Items
 - [ ] Enemies
